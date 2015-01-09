@@ -47,3 +47,7 @@ libraryUserful
 ##Xcode制作通用动态库
 
 <http://years.im/Home/Article/detail/id/52.html>
+
+##NodeJS常用库
+
+<http://blog.gaoqixhb.com/p/5460cada35feb9f15c1060f1>
